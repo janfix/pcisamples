@@ -1,2 +1,1 @@
-# pcisamples
-PCI Samples by JP
+# extension-pciSample
