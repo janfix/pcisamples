@@ -19,15 +19,16 @@
  *
  */
 use oat\pciSamples\scripts\install\RegisterPciTextReader;
-//echo "<br />".RegisterPciTextReader::class;
+use oat\pciSamples\scripts\install\RegisterPciMypci;
+
 
 return array(
     'name' => 'pciSamples',
-	'label' => 'QTI PCI samples',
+	'label' => 'QTI PCI samples JP version',
 	'description' => '',
     'license' => 'GPL-2.0',
-    'version' => '2.3.4',
-	'author' => 'Open Assessment Technologies',
+    'version' => '3.0.0',
+	'author' => 'Open Assessment Technologies and Janfix',
 	'requires' => array(
 	    'qtiItemPci' => '>=1.1.0',
 	    'taoQtiItem' => '>=11.2.0'
@@ -38,7 +39,8 @@ return array(
     ),
     'install' => array(
         'php'	=> array(
-			RegisterPciTextReader::class
+            RegisterPciTextReader::class,
+            RegisterPciMypci::class
 		)
     ),
     'update' => 'oat\\pciSamples\\scripts\\update\\Updater',

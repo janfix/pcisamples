@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="margin-left: calc(50% - 0.5em)"
+   height="28"
+   width="28"
+   version="1.1"
+   id="svg3698"
+   sodipodi:docname="icon.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata3704">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3702" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3700"
+     showgrid="false"
+     inkscape:zoom="11.9198"
+     inkscape:cx="25.454933"
+     inkscape:cy="-0.84659362"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3698" />
+  <g
+     transform="scale(0.01953125 0.01953125)"
+     id="g3696">
+    <path
+       d="M416.154 706.662c-35.328 61.235-11.571 111.616 37.427 139.878s104.55 23.757 139.878-37.478c35.328-61.184 258.406-607.539 239.002-618.752-19.354-11.213-380.979 455.117-416.307 516.352zM512 317.542c22.426 0 44.288 1.946 65.587 5.53 22.426-28.058 47.565-58.982 71.987-88.422-43.622-12.646-89.651-19.507-137.574-19.507-287.078 0-512 242.074-512 551.117 0 19.046 0.87 38.042 2.509 56.576 2.509 28.16 27.648 48.896 55.552 46.438 28.16-2.56 48.947-27.392 46.438-55.552-1.382-15.514-2.099-31.488-2.099-47.462 0-251.597 179.968-448.717 409.6-448.717zM881.613 381.491c-14.285 38.4-29.389 77.517-42.701 111.36 52.070 75.264 82.688 169.626 82.688 273.408 0 16.23-0.717 32.563-2.15 48.384-2.56 28.16 18.176 53.043 46.336 55.654 1.587 0.154 3.123 0.205 4.71 0.205 26.163 0 48.486-20.019 50.893-46.541 1.741-18.944 2.611-38.349 2.611-57.702 0-151.091-53.862-286.157-142.387-384.768z"
+       id="path3694" />
+  </g>
+  <rect
+     id="rect3706"
+     width="28.474577"
+     height="28.237288"
+     x="0"
+     y="0"
+     style="fill:#006dff;fill-opacity:1" />
+  <image
+     y="4.6630635"
+     x="1.4261981"
+     id="image4543"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAC2CAYAAACccMIvAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+IGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAP0SURBVHja7N3Rbts4
+EEBRD6H//2XmMSmgypZMURzy3LcFthvWnpMRk2wbtdaXpP2Kl0ACRAJEAkTq2Pb3HyLitg/kSwFq
+OEo3Dmq1QZQaR9fPt4AoG46uDyWAKCOObkgAUVYcXZBsX34kd2+9br00P3xx315QKO/22Pt3m0Ip
+Jw8Ah0bEcdsn8O3gw9RhFqhGH+W2nzijCa4mU1s6HFZ64jZT7wcCh3Jf9b9Gsn19WLcSjYmjyeNW
+uTz2ruya/8J/4cu8UCjP9tib3FMfrZwiAIdy4rg8xX7URCvhOI2k3ONOGhbHqYm2QbQijo+RlI9+
+ge2h+XB8NN02iFbG8RYJINIvkgqIbI8TASI4ABEc104LiOA4OC0gguPgtIAIDncQwXHttIBIgMj2
+uHZaQAQHIILj2mkBERyACI5rpwVEcAAiOACRmgeIbA9ABAcggqP5aQERHIAIDkAExwsQwdHxtIBI
+gMj2AERwACI4ep4WEMEBiOAARHAAokVxPPSXOAEiASLbAxDBAYjgAERwDPI3KwMCBxyAwAEHIIID
+EAkQ2R6ACI6xcQACBxyAwAEHIIIDEMEBiOAAZNHhULrKFDhWRmJ7APLRYAQccAByPBgBBxyrA4mJ
+BgcOQB4ZjIADjtWAxMSDBMewbVMPRszzRi2LI3b/y/7o0WaD4fskPilMCyTmeaFtD3eQsYci4IBj
+FiBh2OAA5JmhCDjgyAokDB8cgIwxFAEHHFmAhGFMV13jt1mWxTEiEmABGXIgwhlsj9GAjDYQAQcc
+owBxQYYDkKQDEV4LOJ4C4pt0cAAywUDcfV44AJmigGP1ihd7ss2nxBukJoWy4v+XYnt4xOo63HAA
+YpPAAcjqb0bAAYjaDD0cgHjcggMQ5UcAR3IgM20S3zsBRP8B4dFqqrZh3zQ/uwWHDSI4APEmel0B
+cXGHAxDBAYhNAodsEGk6IDaJ7QGI4ADEJoEDEMEBiEHwmgDicQsOQASHpgVikwgQ2R6A2CRwACI4
+ALFJ4ABEcABimPx+APG4BYc8YkmATLdJbA9ABAcgNgkcgAgOQAwgHIB43IIDEMEhQKa5uAsQ20OA
+2CRwACI4ALFJ4ABEcACiPkMMByAet+AARAJEzT7z2x6AQAIHIO4kcAAil3JAdOcmgQMQwQGIzkGA
+AxABMXublwCSbEXHt9AGkTxiSYBIgEiASIBIgEiASIBIgEgCRAJEag9k/+fAwgslQCQBohRFNiAe
+s2SDvKEAiZ7fHvE0EJtEyz9avQPy3jAoag0jxuOzvTlMtU208m7xVSzpCyB2hHI8fD24Qdw4tOyV
+vWQ6rOAY6ZJ+dGh/RJqmRfHPgWo161KLRyxpuX4GAH4rzIrjO8bcAAAAAElFTkSuQmCC
+"
+     preserveAspectRatio="none"
+     height="13.300407"
+     width="15.236265" />
+</svg>
