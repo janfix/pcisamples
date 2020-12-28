@@ -24,6 +24,7 @@ namespace oat\pciSamples\scripts\update;
 use oat\pciSamples\scripts\install\RegisterPciTextReader;
 use oat\qtiItemPci\model\IMSPciModel;
 use oat\taoQtiItem\model\HookRegistry;
+use oat\pciSamples\scripts\install\RegisterPciMypci;
 
 class Updater extends \common_ext_ExtensionUpdater
 {
@@ -88,5 +89,9 @@ class Updater extends \common_ext_ExtensionUpdater
         }
 
         $this->skip('2.3.2', '2.3.4');
+        if ($this->isVersion('2.3.4')) {
+            call_user_func(new RegisterPciMypci(), ['0.0.1']);
+            $this->setVersion('3.0.0');
+        }
     }
 }
